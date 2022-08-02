@@ -8,7 +8,7 @@
 
 <details>
 <summary>Notes</summary>
-This was done while we were out in St Louis. Strange to come back and have a segment of the fence just removed, with all the patio stones simply gone. The fence/gate parts were pushed to the back okf the property to reuse later. Boden loved playing in the dirt though.
+This was done while we were out in St Louis. Strange to come back and have a segment of the fence just removed, with all the patio stones simply gone. The fence/gate parts were pushed to the back of the property to reuse later. Boden loved playing in the dirt though.
 </details>
 
 <img src="./img/000.jpg" alt="" loading="lazy"/>
