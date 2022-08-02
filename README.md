@@ -1,6 +1,5 @@
 # Renovation 2022
 
-## Pre-start date
 ## [Pre-start date](./log/000.md)
 
 - Digger delivered
