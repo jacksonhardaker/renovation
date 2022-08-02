@@ -20,5 +20,5 @@ fn main() {
 
     let file = File::create("./README.md");
 
-    file.unwrap().write_all(contents.as_bytes());
+    file.unwrap().write_all(contents.as_bytes()).expect("Error!");
 }
