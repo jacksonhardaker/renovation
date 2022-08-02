@@ -1,0 +1,11 @@
+{
+  "name": "renovation",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonhardaker/renovation.git"
+  },
+  "devDependencies": {
+    "husky": "^8.0.1"
+  }
+}
