@@ -20,3 +20,4 @@
 ## Day 2 - 8/2/22
 
 - Loaded debris into the skip
+

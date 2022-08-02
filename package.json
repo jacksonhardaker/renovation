@@ -6,7 +6,8 @@
     "url": "git+https://github.com/jacksonhardaker/renovation.git"
   },
   "scripts": {
-    "postinstall": "rustc main.rs",
+    "postinstall": "npm run build",
+    "build": "rustc main.rs",
     "concat": "./main"
   },
   "devDependencies": {
