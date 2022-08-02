@@ -5,6 +5,10 @@
     "type": "git",
     "url": "git+https://github.com/jacksonhardaker/renovation.git"
   },
+  "scripts": {
+    "postinstall": "rustc main.rs",
+    "concat": "./main"
+  },
   "devDependencies": {
     "husky": "^8.0.1"
   }
