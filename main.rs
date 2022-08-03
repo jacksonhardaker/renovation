@@ -3,7 +3,7 @@ use std::fs::File;
 use std::io::Write;
 
 fn main() {
-    let mut paths: Vec<_> = fs::read_dir("./log")
+    let mut paths: Vec<_> = fs::read_dir("./logs")
                                 .unwrap()
                                 .map(|r| r.unwrap())
                                 .collect();
@@ -12,10 +12,41 @@ fn main() {
     contents.push_str("# Renovation 2022\n\n");
 
     for path in paths {
-        let file_content = fs::read_to_string(&path.path())
-        .expect("Error!");
-        contents.push_str(&file_content);
-        contents.push_str("\n\n");
+      let dir = String::from(
+        &path.path().display().to_string()
+      );
+
+      let mut v: Vec<&str> = dir.split("/").collect();
+      let key = String::from(
+        v.pop().unwrap()
+      );
+
+      let md = String::from(
+        &(dir.clone() + "/" + &key + ".md")
+      );
+
+      let img_dir = String::from(
+        &(dir.clone() + "/img")
+      );
+
+      let file_content = fs::read_to_string(md)
+      .expect("Error!");
+
+      contents.push_str(&file_content);
+      
+      let img_paths  = fs::read_dir(img_dir).unwrap();
+      // println!("{}", img_dir);
+      
+      for img_path in img_paths {
+        let img = String::from(
+          &img_path.unwrap().path().display().to_string()
+        );
+        // println!("{}", img);
+        contents.push_str("\n");
+        contents.push_str(&("<img src='".to_owned() + &img + "' alt='' />"))
+      }
+
+      contents.push_str("\n\n");
     }
 
     let file = File::create("./README.md");
