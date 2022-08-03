@@ -6,9 +6,8 @@
     "url": "git+https://github.com/jacksonhardaker/renovation.git"
   },
   "scripts": {
-    "postinstall": "npx husky install && npm run compile",
-    "compile": "rustc main.rs",
-    "build": "npm run compile && ./main"
+    "postinstall": "npx husky install",
+    "build": "cargo run concat"
   },
   "devDependencies": {
     "husky": "^8.0.1"

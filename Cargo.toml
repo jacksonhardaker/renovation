@@ -8,5 +8,5 @@ edition = "2021"
 [dependencies]
 
 [[bin]]
-name = "main"
-path = "main.rs"
+name = "concat"
+path = "concat.rs"
