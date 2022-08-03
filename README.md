@@ -33,11 +33,18 @@ They ripped up the asphalt on the driveway, tore down the side entrance steps, a
 
 ## Day 2 - 8/2/22
 
-- Loaded debris into the skip
+- Loaded asphalt debris into the skip
+- Skip was taken away
+- Ripped out bilco door, stairs, and cinder block walls
+- Dug a deep hole for part of the basement foundation
+- Delivered a bulldozer
+- Ordered the portaloo
 
 <details>
 <summary>Notes</summary>
 Using the digger, they scoop the asphalt debris into a large dump that was delivered at 8am. There's a lot of dust and we're sneezing.
 </details>
 
+<img src='./logs/002/img/PXL_20220802_211237126.jpg' alt='' />
+<img src='./logs/002/img/PXL_20220802_210945314.jpg' alt='' />
 
