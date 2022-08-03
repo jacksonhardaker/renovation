@@ -1,4 +1,5 @@
 use std::fs;
+use std::path::Path;
 use std::fs::File;
 use std::io::Write;
 
@@ -33,17 +34,19 @@ fn main() {
       .expect("Error!");
 
       contents.push_str(&file_content);
-      
-      let img_paths  = fs::read_dir(img_dir).unwrap();
-      // println!("{}", img_dir);
-      
-      for img_path in img_paths {
-        let img = String::from(
-          &img_path.unwrap().path().display().to_string()
-        );
-        // println!("{}", img);
-        contents.push_str("\n");
-        contents.push_str(&("<img src='".to_owned() + &img + "' alt='' />"))
+
+      let img_dir_path = Path::new(&img_dir);
+
+      if img_dir_path.is_dir() {
+        let img_paths  = fs::read_dir(img_dir).unwrap();
+        for img_path in img_paths {
+          let img = String::from(
+            &img_path.unwrap().path().display().to_string()
+          );
+  
+          contents.push_str("\n");
+          contents.push_str(&("<img src='".to_owned() + &img + "' alt='' />"))
+        }
       }
 
       contents.push_str("\n\n");
@@ -52,4 +55,5 @@ fn main() {
     let file = File::create("./README.md");
 
     file.unwrap().write_all(contents.as_bytes()).expect("Error!");
+
 }
