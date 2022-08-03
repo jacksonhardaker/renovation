@@ -17,7 +17,7 @@ This was done while we were out in St Louis. Strange to come back and have a seg
 
 <img src='./logs/000/img/PXL_20220728_231214616.jpg' alt='' />
 
-## Day 1 - 8/1/22
+## Day 1 - 1/8/22
 
 - Ripped up the asphalt driveway
 - Tore down the side entrance
@@ -31,7 +31,7 @@ They ripped up the asphalt on the driveway, tore down the side entrance steps, a
 <img src='./logs/001/img/PXL_20220801_210951376.jpg' alt='' />
 <img src='./logs/001/img/PXL_20220801_210706972.jpg' alt='' />
 
-## Day 2 - 8/2/22
+## Day 2 - 2/8/22
 
 - Loaded asphalt debris into the skip
 - Skip was taken away
@@ -47,4 +47,13 @@ Using the digger, they scoop the asphalt debris into a large dump that was deliv
 
 <img src='./logs/002/img/PXL_20220802_211237126.jpg' alt='' />
 <img src='./logs/002/img/PXL_20220802_210945314.jpg' alt='' />
+
+## Day 3 - 3/8/22
+
+- Dump truck arrived to start hauling dirt away
+- Portaloo delivered
+
+<details>
+<summary>Notes</summary>
+</details>
 
