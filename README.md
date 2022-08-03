@@ -42,7 +42,7 @@ They ripped up the asphalt on the driveway, tore down the side entrance steps, a
 
 <details>
 <summary>Notes</summary>
-Using the digger, they scoop the asphalt debris into a large dump that was delivered at 8am. There's a lot of dust and we're sneezing.
+Using the digger, they scoop the asphalt debris into a large dump that was delivered at 8am. There's a lot of dust and we're sneezing. There looks to be the reminants of an old ceramic drain pipe stretching the length of the hole. I wonder what it was for? There's so much dirt piled up it's hard to get to the back of our yard without clambering over things. After they finished for the day, we went out our basement door, which now sits about a meter above the bottom of the pit.  
 </details>
 
 <img src='./logs/002/img/PXL_20220802_211237126.jpg' alt='' />
