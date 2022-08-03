@@ -11,6 +11,7 @@ fn main() {
     paths.sort_by_key(|dir| dir.path());
     let mut contents = String::new();
     contents.push_str("# Renovation 2022\n\n");
+    contents.push_str(&("<img src='./img/2022-08-02_8.30.02_PM.jpeg' alt='' />\n\n"));
 
     for path in paths {
       let dir = String::from(

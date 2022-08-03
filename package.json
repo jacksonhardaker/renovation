@@ -8,7 +8,7 @@
   "scripts": {
     "postinstall": "npx husky install && npm run compile",
     "compile": "rustc main.rs",
-    "build": "./main"
+    "build": "npm run compile && ./main"
   },
   "devDependencies": {
     "husky": "^8.0.1"
