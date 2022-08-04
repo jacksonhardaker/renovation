@@ -25,7 +25,7 @@ This was done while we were out in St Louis. Strange to come back and have a seg
 
 <details>
 <summary>Notes</summary>
-They ripped up the asphalt on the driveway, tore down the side entrance steps, and leveled the area that used to be the backyard patio. Big piles of debris; a mountain of broken earth & rocks are left to be scooped up.
+_Natalie:_ They ripped up the asphalt on the driveway, tore down the side entrance steps, and leveled the area that used to be the backyard patio. Big piles of debris; a mountain of broken earth & rocks are left to be scooped up.
 </details>
 
 <img src='./logs/001/img/PXL_20220801_210951376.jpg' alt='' />
