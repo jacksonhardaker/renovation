@@ -7,7 +7,8 @@
   },
   "scripts": {
     "postinstall": "npx husky install",
-    "build": "cargo run concat"
+    "build": "cargo run concat",
+    "create": "./entry"
   },
   "devDependencies": {
     "husky": "^8.0.1"

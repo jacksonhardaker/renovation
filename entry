@@ -1,0 +1,6 @@
+#!/bin/bash
+
+KEY=$1
+
+mkdir "./logs/$KEY"
+touch "./logs/$KEY/$KEY.md"

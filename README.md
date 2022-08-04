@@ -73,3 +73,13 @@ _Natalie:_ A big dump truck came at 7:30am and the digger immediately started to
 <img src='./logs/003/img/PXL_20220803_170817973.jpg' alt='' />
 <img src='./logs/003/img/PXL_20220803_210907369.jpg' alt='' />
 
+## Day 4 - 4/8/22
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Arrived at 7:15am, got started soon after.
+
+</details>
+
+
