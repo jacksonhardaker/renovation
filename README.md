@@ -52,8 +52,14 @@ Using the digger, they scoop the asphalt debris into a large dump that was deliv
 
 - Dump truck arrived to start hauling dirt away
 - Portaloo delivered
+- Much more of the foundation hole was dug, roughly an 'L' shape
 
 <details>
 <summary>Notes</summary>
+
+_Jackson:_ The hole is **huge**. Started stressing out that it was representative of the eventual size of the extension, however it sounds like they're digging at least several feet extra in all directions. I guess it makes it easier to form the foundation. There was good news regarding the dirt dumping: Apparently the usually have to drive the truck all the way to Poughkeepsie to dump the dirt, however it just so happens that a local electrician who was working nearby needs a canyon on his property filled, so they only have to haul it there. Score!
 </details>
+
+<img src='./logs/003/img/PXL_20220803_170817973.jpg' alt='' />
+<img src='./logs/003/img/PXL_20220803_210907369.jpg' alt='' />
 
