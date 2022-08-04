@@ -1,6 +1,11 @@
 #!/bin/bash
 
 KEY=$1
+DIR="./logs/$KEY"
+FILE="./logs/$KEY/$KEY.md"
 
-mkdir "./logs/$KEY"
-touch "./logs/$KEY/$KEY.md"
+mkdir $DIR
+touch $FILE
+
+printf "## $KEY\n\n" >> $FILE
+printf "<details>\n<summary>Notes</summary>\n\n\n\n</details>" >> $FILE
