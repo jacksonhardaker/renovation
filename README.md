@@ -87,9 +87,6 @@ _Natalie:_ A big dump truck came at 7:30am and the digger immediately started to
 _Jackson:_ Arrived at 7:15am, got started soon after. A lot of the same today. Were told we have to have money available for the foundation guy on monday, cash. Paying cash gives us a good discount.
 
 <img src="./logs/004/extra/PXL_20220804_210845961.jpg" alt=""/>
-<video controls>
-  <source src="./logs/004/extra/PXL_20220804_213947668.mp4" type="video/mp4">
-</video>
 </details>
 
 <img src='./logs/004/img/PXL_20220804_210822094.jpg' alt='' />
