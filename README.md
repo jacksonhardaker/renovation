@@ -103,6 +103,9 @@ _Natalie:_ Finished the hole! They built a ramp to the bottom where we promptly 
 
 _Natalie:_ Quiet today - wasn't util 2:30 that anyone showed up to do anything. Ted says they only need to "clean up" and prep for the groundwork that needs to be in for the foundation coming in next week.
 
+[3d View of the Pit](https://photos.app.goo.gl/D4zPfeZYjUgYHWk99)
+
 </details>
 
+<img src='./logs/005/img/PXL_20220805_212952482.jpg' alt='' />
 
