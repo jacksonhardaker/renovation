@@ -26,6 +26,8 @@ fn main() {
 
         let file_content = fs::read_to_string(md).expect("Error!");
 
+        contents.push_str(&("<div id='".to_owned() + &key + "'></div>\n\n"));
+
         contents.push_str(&file_content);
 
         let img_dir_path = Path::new(&img_dir);

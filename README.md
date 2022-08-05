@@ -4,6 +4,8 @@
 
 <img src='./img/2022-08-02_8.30.02_PM.jpeg' alt='' />
 
+<div id='000'></div>
+
 ## Pre-start date
 
 - Digger delivered
@@ -18,6 +20,8 @@ _Jackson:_ This was done while we were out in St Louis. Strange to come back and
 </details>
 
 <img src='./logs/000/img/PXL_20220728_231214616.jpg' alt='' />
+
+<div id='001'></div>
 
 ## Day 1 - 1/8/22
 
@@ -34,6 +38,8 @@ _Natalie:_ They ripped up the asphalt on the driveway, tore down the side entran
 
 <img src='./logs/001/img/PXL_20220801_210951376.jpg' alt='' />
 <img src='./logs/001/img/PXL_20220801_210706972.jpg' alt='' />
+
+<div id='002'></div>
 
 ## Day 2 - 2/8/22
 
@@ -56,6 +62,8 @@ _Jackson:_ There looks to be the reminants of an old ceramic drain pipe stretchi
 <img src='./logs/002/img/PXL_20220802_211237126.jpg' alt='' />
 <img src='./logs/002/img/PXL_20220802_210945314.jpg' alt='' />
 
+<div id='003'></div>
+
 ## Day 3 - 3/8/22
 
 - Dump truck arrived to start hauling dirt away
@@ -72,6 +80,8 @@ _Natalie:_ A big dump truck came at 7:30am and the digger immediately started to
 
 <img src='./logs/003/img/PXL_20220803_170817973.jpg' alt='' />
 <img src='./logs/003/img/PXL_20220803_210907369.jpg' alt='' />
+
+<div id='004'></div>
 
 ## Day 4 - 4/8/22
 
@@ -92,6 +102,8 @@ _Natalie:_ Finished the hole! They built a ramp to the bottom where we promptly 
 </details>
 
 <img src='./logs/004/img/PXL_20220804_210822094.jpg' alt='' />
+
+<div id='005'></div>
 
 ## Day 5 - 5/8/22
 
