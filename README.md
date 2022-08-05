@@ -86,6 +86,8 @@ _Natalie:_ A big dump truck came at 7:30am and the digger immediately started to
 
 _Jackson:_ Arrived at 7:15am, got started soon after. A lot of the same today. Were told we have to have money available for the foundation guy on monday, cash. Paying cash gives us a good discount.
 
+_Natalie:_ Finished the hole! They built a ramp to the bottom where we promptly went once they were gone. Standing at the bottom we discovered they'd uncovered a well -so coll! Catherine, Larry and Jenni came over to see the pit as well. We all amrvelled at the walls of dirt going over our heads. No discoveries of hidden treasures, though. No glass bottles, crockery or anything other than a little garbage and rocks.
+
 <img src="./logs/004/extra/PXL_20220804_210845961.jpg" alt=""/>
 </details>
 
