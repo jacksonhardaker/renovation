@@ -93,3 +93,16 @@ _Natalie:_ Finished the hole! They built a ramp to the bottom where we promptly 
 
 <img src='./logs/004/img/PXL_20220804_210822094.jpg' alt='' />
 
+## Day 5 - 5/8/22
+
+- A couple of guys game to look around in the pit first thing, no action after that
+- The digger was back at it for a couple of hours in the afternoon to tidy things up in preparation for next week
+
+<details>
+<summary>Notes</summary>
+
+_Natalie:_ Quiet today - wasn't util 2:30 that anyone showed up to do anything. Ted says they only need to "clean up" and prep for the groundwork that needs to be in for the foundation coming in next week.
+
+</details>
+
+
