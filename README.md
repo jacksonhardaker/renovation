@@ -3,7 +3,6 @@
 ## Before
 
 <img src='./img/2022-08-02_8.30.02_PM.jpeg' alt='' />
-
 <div id='000'></div>
 
 ## Pre-start date
