@@ -42,6 +42,8 @@ fn main() {
             }
         }
 
+        contents.push_str("<a href='#top'>Back to Top</a>");
+
         contents.push_str("\n\n");
     }
 

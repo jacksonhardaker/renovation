@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # Renovation 2022
 
 <details>
@@ -32,7 +34,7 @@ _Jackson:_ This was done while we were out in St Louis. Strange to come back and
 
 </details>
 
-<img src='./logs/000/img/PXL_20220728_231214616.jpg' alt='' />
+<img src='./logs/000/img/PXL_20220728_231214616.jpg' alt='' /><a href='#top'>Back to Top</a>
 
 <div id='001'></div>
 
@@ -50,7 +52,7 @@ _Natalie:_ They ripped up the asphalt on the driveway, tore down the side entran
 </details>
 
 <img src='./logs/001/img/PXL_20220801_210951376.jpg' alt='' />
-<img src='./logs/001/img/PXL_20220801_210706972.jpg' alt='' />
+<img src='./logs/001/img/PXL_20220801_210706972.jpg' alt='' /><a href='#top'>Back to Top</a>
 
 <div id='002'></div>
 
@@ -73,7 +75,7 @@ _Jackson:_ There looks to be the reminants of an old ceramic drain pipe stretchi
 </details>
 
 <img src='./logs/002/img/PXL_20220802_211237126.jpg' alt='' />
-<img src='./logs/002/img/PXL_20220802_210945314.jpg' alt='' />
+<img src='./logs/002/img/PXL_20220802_210945314.jpg' alt='' /><a href='#top'>Back to Top</a>
 
 <div id='003'></div>
 
@@ -92,7 +94,7 @@ _Natalie:_ A big dump truck came at 7:30am and the digger immediately started to
 </details>
 
 <img src='./logs/003/img/PXL_20220803_170817973.jpg' alt='' />
-<img src='./logs/003/img/PXL_20220803_210907369.jpg' alt='' />
+<img src='./logs/003/img/PXL_20220803_210907369.jpg' alt='' /><a href='#top'>Back to Top</a>
 
 <div id='004'></div>
 
@@ -114,7 +116,7 @@ _Natalie:_ Finished the hole! They built a ramp to the bottom where we promptly 
 <img src="./logs/004/extra/PXL_20220804_210845961.jpg" alt=""/>
 </details>
 
-<img src='./logs/004/img/PXL_20220804_210822094.jpg' alt='' />
+<img src='./logs/004/img/PXL_20220804_210822094.jpg' alt='' /><a href='#top'>Back to Top</a>
 
 <div id='005'></div>
 
@@ -132,5 +134,5 @@ _Natalie:_ Quiet today - wasn't util 2:30 that anyone showed up to do anything. 
 
 </details>
 
-<img src='./logs/005/img/PXL_20220805_212952482.jpg' alt='' />
+<img src='./logs/005/img/PXL_20220805_212952482.jpg' alt='' /><a href='#top'>Back to Top</a>
 
