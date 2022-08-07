@@ -145,7 +145,7 @@ _Natalie:_ Quiet today - wasn't util 2:30 that anyone showed up to do anything. 
 <details>
 <summary>Notes</summary>
 
-
+_Jackson:_ It's dry so you can clearly see where the old well was. Pretty cool! The pit looks smooth and ready to go to me, but what do I know?
 
 </details>
 
