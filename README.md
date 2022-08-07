@@ -136,3 +136,17 @@ _Natalie:_ Quiet today - wasn't util 2:30 that anyone showed up to do anything. 
 
 <img src='./logs/005/img/PXL_20220805_212952482.jpg' alt='' /><a href='#top'>Back to Top</a>
 
+<div id='006'></div>
+
+## Day 6 - 6/8/22
+
+- Didn't expect them on a Saturday, but arrived around 8 and got to work smoothing out the pit
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
+
