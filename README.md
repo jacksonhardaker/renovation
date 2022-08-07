@@ -148,5 +148,6 @@ _Natalie:_ Quiet today - wasn't util 2:30 that anyone showed up to do anything. 
 
 
 </details>
-<a href='#top'>Back to Top</a>
+
+<img src='./logs/006/img/PXL_20220807_112856868.jpg' alt='' /><a href='#top'>Back to Top</a>
 
