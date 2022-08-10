@@ -202,3 +202,19 @@ _Jackson:_ Once the basement of the main extension is done, they'll need to regr
 </details>
 <a href='#top'>Back to Top</a>
 
+<div id='009'></div>
+
+## Day 9 - 10/8/22
+
+- Foundation guys arrived at 6:30am to put some finishing touches in before the concrete truck arrived
+- 7:30am concrete truck arrives, got set up, and they started pouring
+- 8am finish pouring and smooth out the concrete
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ There's a barrier in the far wall of the foundation where the concrete is higher on one side than the other. Not sure why, but it looks very intentional. Might ask Ted at some point.
+
+</details>
+<a href='#top'>Back to Top</a>
+
