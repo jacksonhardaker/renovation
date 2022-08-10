@@ -15,6 +15,13 @@
   </ul>
 </details>
 
+<details>
+  <summary>Week 2</summary>
+  <ul>
+    <li><a href="#007">8/8/22</a></li>
+  </ul>
+</details>
+
 <hr />
 
 ## Before

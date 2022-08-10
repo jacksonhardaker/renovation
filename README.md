@@ -15,6 +15,13 @@
   </ul>
 </details>
 
+<details>
+  <summary>Week 2</summary>
+  <ul>
+    <li><a href="#007">8/8/22</a></li>
+  </ul>
+</details>
+
 <hr />
 
 ## Before
@@ -148,7 +155,29 @@ _Natalie:_ Quiet today - wasn't util 2:30 that anyone showed up to do anything. 
 
 _Jackson:_ It's dry so you can clearly see where the old well was. Pretty cool! The pit looks smooth and ready to go to me, but what do I know?
 
+_Natalie:_ Boris showed up and dithered in the back a bit. He flattened the surfaces with the digger for a while in prep for Monday.
+
 </details>
 
 <img src='./logs/006/img/PXL_20220807_112856868.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='007'></div>
+
+## Day 7 - 8/8/22
+
+- Bunch of dudes showed up early, looked like they were planning
+- Laid the wooden templates for the base of the foundation, laid rebar
+- Excavator was picked up, and the skid steer dropped off again
+- Bit of tidy up on the driveway
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ I don't know anything about the templates, but it seems like they've boxed in the outer edges of the new extension, while leaving the base of the existing house alone. There must be a reason, but I don't know what. Maybe it's just not necessary?
+
+_Natalie:_ Some big, beefy guys came and laid out wooden boards and metal rods for a mold of what looks like the base of our foundation and walls. Exciting to see the outline of the house!
+
+</details>
+
+<img src='./logs/007/img/PXL_20220808_225946692.jpg' alt='' /><a href='#top'>Back to Top</a>
 
