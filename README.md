@@ -181,3 +181,23 @@ _Natalie:_ Some big, beefy guys came and laid out wooden boards and metal rods f
 
 <img src='./logs/007/img/PXL_20220808_225946692.jpg' alt='' /><a href='#top'>Back to Top</a>
 
+<div id='008'></div>
+
+## Day 8 - 9/8/22
+
+- More fussing with the drive. The ramp down to the pit is now shorter and steeper
+- Electrician came by to look at the plans/basement
+- Pouring of the foundation kicks off tomorrow, in the following order:
+  - Concrete poured into the templates for the footing
+  - Interior filled with gravel
+  - Concrete slab poured over the gravel
+  - Cinder blocks to build out the walls
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Once the basement of the main extension is done, they'll need to regroup to dig the foundation for the mud room. There just wasn't enough room to do both at once. I'm sure it'll cost us more doing it this way, but there really was no other option.
+
+</details>
+<a href='#top'>Back to Top</a>
+
