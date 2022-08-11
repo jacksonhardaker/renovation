@@ -208,8 +208,8 @@ _Jackson:_ Once the basement of the main extension is done, they'll need to regr
 ## Day 9 - 10/8/22
 
 - Foundation guys arrived at 6:30am to put some finishing touches in before the concrete truck arrived
-- 7:30am concrete truck arrives, got set up, and they started pouring
-- 8am finish pouring and smooth out the concrete
+- 7:30am concrete truck arrived, got set up, and they started pouring
+- 8am finished pouring and smooth out the concrete
 
 <details>
 <summary>Notes</summary>
