@@ -229,11 +229,12 @@ _Jackson:_ There's a barrier in the far wall of the foundation where the concret
 - Arrived early to strip the wooden boards off of the now dried concrete
 - Removed the larger rocks from inside the foundation area in preparation for the gravel
 - Made the ramp to the pit longer and less steep
+- Filled the outer walls with gravel and packed it down
 
 <details>
 <summary>Notes</summary>
 
-
+_Jackson:_ Tomorrow they'll start building up the basement walls. Once it's about 1/3rd complete, they'll pour the concrete slab for the floor, then continue with the walls. Doing it that way saves having to rent a pump truck for the concrete, which saves us about $2k.
 
 </details>
 <a href='#top'>Back to Top</a>
