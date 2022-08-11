@@ -217,5 +217,7 @@ _Jackson:_ Once the basement of the main extension is done, they'll need to regr
 _Jackson:_ There's a barrier in the far wall of the foundation where the concrete is higher on one side than the other. Not sure why, but it looks very intentional. Might ask Ted at some point.
 
 </details>
-<a href='#top'>Back to Top</a>
+
+<img src='./logs/009/img/PXL_20220810_224538022.jpg' alt='' />
+<img src='./logs/009/img/PXL_20220810_224529998.jpg' alt='' /><a href='#top'>Back to Top</a>
 
