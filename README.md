@@ -21,6 +21,7 @@
     <li><a href="#007">8/8/22</a></li>
     <li><a href="#008">9/8/22</a></li>
     <li><a href="#009">10/8/22</a></li>
+    <li><a href="#010">11/8/22</a></li>
   </ul>
 </details>
 
@@ -220,4 +221,20 @@ _Jackson:_ There's a barrier in the far wall of the foundation where the concret
 
 <img src='./logs/009/img/PXL_20220810_224538022.jpg' alt='' />
 <img src='./logs/009/img/PXL_20220810_224529998.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='010'></div>
+
+## Day 10 - 11/8/22
+
+- Arrived early to strip the wooden boards off of the now dried concrete
+- Removed the larger rocks from inside the foundation area in preparation for the gravel
+- Made the ramp to the pit longer and less steep
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
 
