@@ -239,3 +239,31 @@ _Jackson:_ Tomorrow they'll start building up the basement walls. Once it's abou
 </details>
 <a href='#top'>Back to Top</a>
 
+<div id='011'></div>
+
+## Day 11 - 15/8/22
+
+- Delivered 6 loads of concrete blocks for the foundation walls
+- Dropped off some gear
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ It's felt like ages since any progress was made, but in reality it's been about 3 and a half days, 2 of which were the weekend. Probably unresonable for me to feel eager for things to keep moving.
+
+
+</details>
+
+<img src='./logs/011/img/PXL_20220815_225330228.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='012'></div>
+
+## 012
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details><a href='#top'>Back to Top</a>
+
