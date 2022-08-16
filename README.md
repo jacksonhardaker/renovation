@@ -249,7 +249,7 @@ _Jackson:_ Tomorrow they'll start building up the basement walls. Once it's abou
 <details>
 <summary>Notes</summary>
 
-_Jackson:_ It's felt like ages since any progress was made, but in reality it's been about 3 and a half days, 2 of which were the weekend. Probably unresonable for me to feel eager for things to keep moving.
+_Jackson:_ It's felt like ages since any progress was made, but in reality it's been about 3 and a half days, 2 of which were the weekend. Probably unresonable for me to feel eager for things to keep moving. I spoke to Ted, and he was optimistic that things would be finished by Thanksgiving. If that's the case, I'll be very happy.
 
 
 </details>
@@ -258,12 +258,16 @@ _Jackson:_ It's felt like ages since any progress was made, but in reality it's 
 
 <div id='012'></div>
 
-## 012
+## Day 12 - 16/8/22
+
+- Showed up to start building up the walls
+- Lots of mixing concrete, laying brick, rinse and repeat
 
 <details>
 <summary>Notes</summary>
 
 
 
-</details><a href='#top'>Back to Top</a>
+</details>
+<a href='#top'>Back to Top</a>
 
