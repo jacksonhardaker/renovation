@@ -30,6 +30,7 @@
   <ul>
     <li><a href="#011">15/8/22</a></li>
     <li><a href="#012">16/8/22</a></li>
+    <li><a href="#013">17/8/22</a></li>
   </ul>
 </details>
 
@@ -281,4 +282,21 @@ _Jackson:_ It's felt like ages since any progress was made, but in reality it's 
 <img src='./logs/012/img/PXL_20220816_210742171.jpg' alt='' />
 <img src='./logs/012/img/PXL_20220816_210751050.jpg' alt='' />
 <img src='./logs/012/img/PXL_20220816_210905609.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='013'></div>
+
+## Day 13 - 17/8/22
+
+- More brick laying, got to full height in a couple of places
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/013/img/PXL_20220817_223228491.jpg' alt='' />
+<img src='./logs/013/img/PXL_20220817_223347118.jpg' alt='' />
+<img src='./logs/013/img/PXL_20220817_223507653.jpg' alt='' /><a href='#top'>Back to Top</a>
 
