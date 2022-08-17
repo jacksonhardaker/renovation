@@ -277,5 +277,8 @@ _Jackson:_ It's felt like ages since any progress was made, but in reality it's 
 
 
 </details>
-<a href='#top'>Back to Top</a>
+
+<img src='./logs/012/img/PXL_20220816_210742171.jpg' alt='' />
+<img src='./logs/012/img/PXL_20220816_210751050.jpg' alt='' />
+<img src='./logs/012/img/PXL_20220816_210905609.jpg' alt='' /><a href='#top'>Back to Top</a>
 
