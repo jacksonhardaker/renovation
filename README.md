@@ -300,3 +300,22 @@ _Jackson:_ It's felt like ages since any progress was made, but in reality it's 
 <img src='./logs/013/img/PXL_20220817_223347118.jpg' alt='' />
 <img src='./logs/013/img/PXL_20220817_223507653.jpg' alt='' /><a href='#top'>Back to Top</a>
 
+<div id='014'></div>
+
+## Day 14 - 18/8/22
+
+- Finished up as much of the walls as they're doing for now
+- Used a machine to pack down the gravel in the foundation
+- Laid down some insulation 
+- Moved a bunch of blocks over to the bilco door spot
+- The floor slab will be poured on Monday, and once that's done they'll finish the walls
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/014/img/PXL_20220819_114213758.jpg' alt='' /><a href='#top'>Back to Top</a>
+
