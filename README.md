@@ -337,7 +337,9 @@ _Jackson:_ It's felt like ages since any progress was made, but in reality it's 
 <details>
 <summary>Notes</summary>
 
+_Jackson:_ Spoke to Ted about what we want to do regarding the finish of the basement. We'll go with a polished concrete floor (i.e. nothing special), and paint the cinderblock walls. We still need to ask if we can do surface mounted electrical outlets. 
 
+It sounds like they're not going to backfill around the foundation until the first floor framing is done, which is a bit of a pain. It would be nice to regain easy access to our back lawn while the weather is nice so that Bodie can play back there again.
 
 </details>
 <a href='#top'>Back to Top</a>
