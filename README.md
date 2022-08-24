@@ -320,3 +320,34 @@ _Jackson:_ It's felt like ages since any progress was made, but in reality it's 
 
 <img src='./logs/014/img/PXL_20220819_114213758.jpg' alt='' /><a href='#top'>Back to Top</a>
 
+<div id='015'></div>
+
+## Day 15 - 22/8/22
+
+- Inspector came by to give the go ahead for pouring the slab
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='016'></div>
+
+## Day 16 - 24/8/22
+
+- The team arrived before 7am to get ready for the concrete truck
+- Concrete truck arrived soon after
+- Poured the slab and smoothed it out
+- Gone by 8:15am
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
+
