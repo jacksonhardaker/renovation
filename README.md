@@ -356,8 +356,9 @@ It sounds like they're not going to backfill around the foundation until the fir
 <details>
 <summary>Notes</summary>
 
-
+_Jackson:_ Will continue finishing the walls of the foundation tomorrow, including boxing in the bilco door area. Fingers crossed we'll have a finished basement by the end of the day.
 
 </details>
-<a href='#top'>Back to Top</a>
+
+<img src='./logs/016/img/PXL_20220824_214137122.jpg' alt='' /><a href='#top'>Back to Top</a>
 
