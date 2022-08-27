@@ -390,6 +390,8 @@ _Jackson:_ Will continue finishing the walls of the foundation tomorrow, includi
 <details>
 <summary>Notes</summary>
 
+_Jackson:_  I'm always off when I guess they're going to finish something. I probably have unrealistically high expectations for how quickly this stuff can be done.
+
 <img src="./logs/004/extra/PXL_20220826_215502621.jpg" alt=""/>
 <img src="./logs/004/extra/PXL_20220826_215606149.jpg" alt=""/>
 <img src="./logs/004/extra/PXL_20220826_215611301.jpg" alt=""/>
