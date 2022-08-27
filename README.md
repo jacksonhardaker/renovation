@@ -362,3 +362,41 @@ _Jackson:_ Will continue finishing the walls of the foundation tomorrow, includi
 
 <img src='./logs/016/img/PXL_20220824_214137122.jpg' alt='' /><a href='#top'>Back to Top</a>
 
+<div id='017'></div>
+
+## Day 17 - 25/8/22
+
+- Got a delivery of some more concrete
+- Moved a bunch of the concrete blocks by hand down into the basement
+- Built the walls for the bico door entry
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='018'></div>
+
+## Day 18 - 26/8/22
+
+- Sealed the outside of the basement walls with concrete
+- Started building the interior wall which will bring the extension basement floor up to the level of the current foundation
+- Started building up the remaining walls, leaving a gap to get in and out
+- Scaffolding equipment arrived so they can finish the full height easily
+
+<details>
+<summary>Notes</summary>
+
+<img src="./logs/004/extra/PXL_20220826_215502621.jpg" alt=""/>
+<img src="./logs/004/extra/PXL_20220826_215606149.jpg" alt=""/>
+<img src="./logs/004/extra/PXL_20220826_215611301.jpg" alt=""/>
+<img src="./logs/004/extra/PXL_20220826_215618108.jpg" alt=""/>
+
+</details>
+
+<img src='./logs/018/img/PXL_20220826_215444835.jpg' alt='' />
+<img src='./logs/018/img/PXL_20220826_215420001.jpg' alt='' /><a href='#top'>Back to Top</a>
+
