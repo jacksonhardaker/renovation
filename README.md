@@ -45,6 +45,14 @@
   </ul>
 </details>
 
+  <summary>Week 5</summary>
+  <ul>
+    <li><a href="#019">29/8/22</a></li>
+    <li><a href="#020">30/8/22</a></li>
+    <li><a href="#021">31/8/22</a></li>
+  </ul>
+</details>
+
 <hr />
 
 ## Before
@@ -403,4 +411,49 @@ _Jackson:_  I'm always off when I guess they're going to finish something. I pro
 
 <img src='./logs/018/img/PXL_20220826_215444835.jpg' alt='' />
 <img src='./logs/018/img/PXL_20220826_215420001.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='019'></div>
+
+## Day 19 - 29/8/22
+
+- Continued building up the wall
+- Continued sealing the outside
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='020'></div>
+
+## Day 20 - 30/8/22
+
+- Finished building up the wall
+- Finished sealing the outside
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Still no concrete slab in the bilco door enclosure, nor has the step from the old foundation to the new been filled in.
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='021'></div>
+
+## Day 21 - 31/8/22
+
+- Waterproofing truck showed up
+- Sprayed some kind of waterproofing layer onto the outside of the foundation walls
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
 
