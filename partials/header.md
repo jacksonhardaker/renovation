@@ -45,6 +45,7 @@
   </ul>
 </details>
 
+<details>
   <summary>Week 5</summary>
   <ul>
     <li><a href="#019">29/8/22</a></li>
