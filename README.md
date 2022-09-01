@@ -454,7 +454,7 @@ _Jackson:_ Still no concrete slab in the bilco door enclosure, nor has the step 
 <details>
 <summary>Notes</summary>
 
--Jackson:_ Got word that they should be starting on the framing for the first floor tomorrow!
+_Jackson:_ Got word that they should be starting on the framing for the first floor tomorrow!
 
 </details>
 
