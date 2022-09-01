@@ -51,6 +51,7 @@
     <li><a href="#019">29/8/22</a></li>
     <li><a href="#020">30/8/22</a></li>
     <li><a href="#021">31/8/22</a></li>
+    <li><a href="#022">01/9/22</a></li>
   </ul>
 </details>
 
@@ -460,4 +461,19 @@ _Jackson:_ Got word that they should be starting on the framing for the first fl
 
 <img src='./logs/021/img/PXL_20220901_124332299.jpg' alt='' />
 <img src='./logs/021/img/PXL_20220901_124208124.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='022'></div>
+
+## Day 22 - 01/9/22
+
+- Late morning the materials were dropped off
+- Soon after the framers showed up and made short work of getting started
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Determining where to drop the materials took a bit of manuvering for the delivery guy. The framers work quickly. Got started around lunch time and made short work of getting the floors installed. The plan is for it to be finished today so that tomorrow the bulldozer can come and backfill around the foundation walls, and make a start at digging the pit for the mud room foundation.
+
+</details>
+<a href='#top'>Back to Top</a>
 
