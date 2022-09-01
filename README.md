@@ -447,13 +447,16 @@ _Jackson:_ Still no concrete slab in the bilco door enclosure, nor has the step 
 ## Day 21 - 31/8/22
 
 - Waterproofing truck showed up
-- Sprayed some kind of waterproofing layer onto the outside of the foundation walls
+- Sprayed some kind of black waterproofing layer onto the outside of the foundation walls
+- Attached what looks like a kind of bubble wrap type thing to the outside of the walls
 
 <details>
 <summary>Notes</summary>
 
-
+-Jackson:_ Got word that they should be starting on the framing for the first floor tomorrow!
 
 </details>
-<a href='#top'>Back to Top</a>
+
+<img src='./logs/021/img/PXL_20220901_124324296.jpg' alt='' />
+<img src='./logs/021/img/PXL_20220901_124208124.jpg' alt='' /><a href='#top'>Back to Top</a>
 
