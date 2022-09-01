@@ -458,6 +458,6 @@ _Jackson:_ Got word that they should be starting on the framing for the first fl
 
 </details>
 
-<img src='./logs/021/img/PXL_20220901_124324296.jpg' alt='' />
+<img src='./logs/021/img/PXL_20220901_124332299.jpg' alt='' />
 <img src='./logs/021/img/PXL_20220901_124208124.jpg' alt='' /><a href='#top'>Back to Top</a>
 
