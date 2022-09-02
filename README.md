@@ -478,5 +478,6 @@ _Jackson:_ Determining where to drop the materials took a bit of manuvering for 
 </details>
 
 <img src='./logs/022/img/PXL_20220902_002800053.jpg' alt='' />
+<img src='./logs/022/img/PXL_20220902_114439908.jpg' alt='' />
 <img src='./logs/022/img/PXL_20220902_002638083.jpg' alt='' /><a href='#top'>Back to Top</a>
 
