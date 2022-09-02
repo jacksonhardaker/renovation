@@ -468,6 +468,7 @@ _Jackson:_ Got word that they should be starting on the framing for the first fl
 
 - Late morning the materials were dropped off
 - Soon after the framers showed up and made short work of getting started
+- Most of the framing complete with a good half of the floor done
 
 <details>
 <summary>Notes</summary>
@@ -475,5 +476,7 @@ _Jackson:_ Got word that they should be starting on the framing for the first fl
 _Jackson:_ Determining where to drop the materials took a bit of manuvering for the delivery guy. The framers work quickly. Got started around lunch time and made short work of getting the floors installed. The plan is for it to be finished today so that tomorrow the bulldozer can come and backfill around the foundation walls, and make a start at digging the pit for the mud room foundation.
 
 </details>
-<a href='#top'>Back to Top</a>
+
+<img src='./logs/022/img/PXL_20220902_002800053.jpg' alt='' />
+<img src='./logs/022/img/PXL_20220902_002638083.jpg' alt='' /><a href='#top'>Back to Top</a>
 
