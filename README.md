@@ -52,6 +52,14 @@
     <li><a href="#020">30/8/22</a></li>
     <li><a href="#021">31/8/22</a></li>
     <li><a href="#022">01/9/22</a></li>
+    <li><a href="#023">02/9/22</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Week 6</summary>
+  <ul>
+    <li><a href="#024">06/9/22</a></li>
   </ul>
 </details>
 
@@ -480,4 +488,34 @@ _Jackson:_ Determining where to drop the materials took a bit of manuvering for 
 <img src='./logs/022/img/PXL_20220902_002800053.jpg' alt='' />
 <img src='./logs/022/img/PXL_20220902_114439908.jpg' alt='' />
 <img src='./logs/022/img/PXL_20220902_002638083.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='023'></div>
+
+## Day 23 - 02/9/22
+
+- Excavator was dropped off, in preparation for digging the mud room foundation next week
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ After watching the framing guys hustle into the dark to try and finish the floor the previous night, we expected them to be here today to finish up. Was not the case. Probably had another job lined up.
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='024'></div>
+
+## Day 24 - 06/9/22
+
+- Rain
+- Brick shopping for the outside of the foundation
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Thought I'd be clever and grab an old brick from the pile of dirt so that we had a good comparison when brick shopping. Jumped off the steps onto the dirt next to the excavator and promptly sunk calf deep in mud. Took a step, and my shoe stayed in the mud. Laughing like a lunatic, I powered on bare foot. Retreived the brick.
+
+</details>
+
+<img src='./logs/024/img/PXL_20220906_135509378.jpg' alt='' /><a href='#top'>Back to Top</a>
 

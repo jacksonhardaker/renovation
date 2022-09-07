@@ -52,6 +52,14 @@
     <li><a href="#020">30/8/22</a></li>
     <li><a href="#021">31/8/22</a></li>
     <li><a href="#022">01/9/22</a></li>
+    <li><a href="#023">02/9/22</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Week 6</summary>
+  <ul>
+    <li><a href="#024">06/9/22</a></li>
   </ul>
 </details>
 
