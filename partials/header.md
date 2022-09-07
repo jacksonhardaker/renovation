@@ -60,6 +60,7 @@
   <summary>Week 6</summary>
   <ul>
     <li><a href="#024">06/9/22</a></li>
+    <li><a href="#025">07/9/22</a></li>
   </ul>
 </details>
 

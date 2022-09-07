@@ -60,6 +60,7 @@
   <summary>Week 6</summary>
   <ul>
     <li><a href="#024">06/9/22</a></li>
+    <li><a href="#025">07/9/22</a></li>
   </ul>
 </details>
 
@@ -518,4 +519,27 @@ _Jackson:_ Thought I'd be clever and grab an old brick from the pile of dirt so 
 </details>
 
 <img src='./logs/024/img/PXL_20220906_135509378.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='025'></div>
+
+## Day 25 - 07/9/22
+
+- The guys came to finish the floor framing
+- Started digging the mudroom foundation pit
+- Filled in the step inside the basement, ready for concrete to be poured over
+- Hit the gas main
+- 3 fire trucks, the fire chief car, and 2 trucks from Central Hudson showed up
+- Closed off the gas, repaired the piping, moved the meter out of the basement to beside the house
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ The drama. Felt like one thing after the other today, though really the gas main was just the catalist for a busy day.
+
+</details>
+
+<img src='./logs/025/img/PXL_20220907_223610671.jpg' alt='' />
+<img src='./logs/025/img/PXL_20220907_224425966.jpg' alt='' />
+<img src='./logs/025/img/PXL_20220907_223453602.jpg' alt='' />
+<img src='./logs/025/img/PXL_20220907_223407133.jpg' alt='' /><a href='#top'>Back to Top</a>
 
