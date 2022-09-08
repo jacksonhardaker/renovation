@@ -61,6 +61,7 @@
   <ul>
     <li><a href="#024">06/9/22</a></li>
     <li><a href="#025">07/9/22</a></li>
+    <li><a href="#026">08/9/22</a></li>
   </ul>
 </details>
 
@@ -542,4 +543,19 @@ _Jackson:_ The drama. Felt like one thing after the other today, though really t
 <img src='./logs/025/img/PXL_20220907_224425966.jpg' alt='' />
 <img src='./logs/025/img/PXL_20220907_223453602.jpg' alt='' />
 <img src='./logs/025/img/PXL_20220907_223407133.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='026'></div>
+
+## Day 26 - 08/9/
+
+- Picked up the excavator
+- Dropped of some wood for framing
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
 
