@@ -62,6 +62,7 @@
     <li><a href="#024">06/9/22</a></li>
     <li><a href="#025">07/9/22</a></li>
     <li><a href="#026">08/9/22</a></li>
+    <li><a href="#027">10/9/22</a></li>
   </ul>
 </details>
 
@@ -558,4 +559,20 @@ _Jackson:_ The drama. Felt like one thing after the other today, though really t
 
 </details>
 <a href='#top'>Back to Top</a>
+
+<div id='027'></div>
+
+## Day 27 - 10/9/22
+
+- Showed up unexpected on a Saturday and started the framing for the walls
+- Were there for about 2 hours then left, coming back Monday
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Unfortunatley timing. I had just laid down to take a nap when they showed up. The irregular banging and nail gun sounds meant it was impossible to really sleep. I dozed for 15 mins then got up.
+
+</details>
+
+<img src='./logs/027/img/PXL_20220911_180051851.jpg' alt='' /><a href='#top'>Back to Top</a>
 
