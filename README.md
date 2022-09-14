@@ -597,7 +597,8 @@ _Jackson:_ Unfortunatley timing. I had just laid down to take a nap when they sh
 
 
 </details>
-<a href='#top'>Back to Top</a>
+
+<img src='./logs/028/img/PXL_20220914_210229146.jpg' alt='' /><a href='#top'>Back to Top</a>
 
 <div id='029'></div>
 
