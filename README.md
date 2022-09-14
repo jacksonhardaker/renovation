@@ -66,6 +66,14 @@
   </ul>
 </details>
 
+<details>
+  <summary>Week 7</summary>
+  <ul>
+    <li><a href="#028">12/9/22</a></li>
+    <li><a href="#029">13/9/22</a></li>
+  </ul>
+</details>
+
 <hr />
 
 ## Before
@@ -575,4 +583,34 @@ _Jackson:_ Unfortunatley timing. I had just laid down to take a nap when they sh
 </details>
 
 <img src='./logs/027/img/PXL_20220911_180051851.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='028'></div>
+
+## Day 28 - 12/9/22
+
+- The guys showed up and dug a trench from the mudroom pit to the street
+- Backfilled the backyard pit, buy hand, for the rest of the day
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='029'></div>
+
+## Day 29 - 13/9/22
+
+- Received a load of dirt dumped in the driveway
+- The guys continued backfilling by hand
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Feels a bit weird having shipped off a bunch of dirt when the pit was being dug, only to have to order more to replace it when it was time to backfill. I don't think there was much else to be done. Too much dirt was removed, and we just don't have anywhere that it could have been stored until backfilling time. Felt sorry for the guys having to do it manually, but the excavator should be back on Friday (along with more dirt) to continue the job.
+
+</details>
+<a href='#top'>Back to Top</a>
 

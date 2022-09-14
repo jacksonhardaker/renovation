@@ -66,6 +66,14 @@
   </ul>
 </details>
 
+<details>
+  <summary>Week 7</summary>
+  <ul>
+    <li><a href="#028">12/9/22</a></li>
+    <li><a href="#029">13/9/22</a></li>
+  </ul>
+</details>
+
 <hr />
 
 ## Before
