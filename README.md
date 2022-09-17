@@ -71,6 +71,8 @@
   <ul>
     <li><a href="#028">12/9/22</a></li>
     <li><a href="#029">13/9/22</a></li>
+    <li><a href="#030">15/9/22</a></li>
+    <li><a href="#031">16/9/22</a></li>
   </ul>
 </details>
 
@@ -611,6 +613,43 @@ _Jackson:_ Unfortunatley timing. I had just laid down to take a nap when they sh
 <summary>Notes</summary>
 
 _Jackson:_ Feels a bit weird having shipped off a bunch of dirt when the pit was being dug, only to have to order more to replace it when it was time to backfill. I don't think there was much else to be done. Too much dirt was removed, and we just don't have anywhere that it could have been stored until backfilling time. Felt sorry for the guys having to do it manually, but the excavator should be back on Friday (along with more dirt) to continue the job.
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='030'></div>
+
+## Day 30 - 15/9/22
+
+- Foundation guys showed up again, built out the framing for the mudroom foundation footing
+- Filled with concrete
+- Ordered a container unit which we can store on the street outside our house, we'll use this for furniture and stuff when we need to get out of the way for interior work
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/030/img/PXL_20220915_220605662.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='031'></div>
+
+## Day 31 - 16/9/22
+
+- Got some deliveries: a bunch more cinder blocks and a large pile of dirt
+- Skid steer loader dropped off
+- The concrete overhang in the bilco door enclosure was chipped away at to prepare for that slab to be filled
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Expecting a bunch of activity next week. Backfilling should be complete. Mudroom foundation should be complete. Two of the windows in the current basement will be filled in with brick, since they intersect the mudroom.
+
+We're hoping that we can retain a vent for the drier. Eventually we'll have a drier in the mudroom, but until that time, we still want to be able to use our existing one. There's also the danger of appliances being back ordered, so we may not be able to get new washer/drier into the mudroom right away.
+
+They're also planning on blowing out the wall of the existing basement to connect it to the new basement next week. Exciting, but nerve-racking. It will be cool to be able to walk from basement to basement.
 
 </details>
 <a href='#top'>Back to Top</a>
