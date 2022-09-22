@@ -76,6 +76,15 @@
   </ul>
 </details>
 
+<details>
+  <summary>Week 8</summary>
+  <ul>
+    <li><a href="#032">19/9/22</a></li>
+    <li><a href="#033">20/9/22</a></li>
+    <li><a href="#034">21/9/22</a></li>
+  </ul>
+</details>
+
 <hr />
 
 ## Before
@@ -653,4 +662,57 @@ They're also planning on blowing out the wall of the existing basement to connec
 
 </details>
 <a href='#top'>Back to Top</a>
+
+<div id='032'></div>
+
+## Day 32 - 19/9/22
+
+- Started laying the cinderblocks for the mudroom basement walls
+- Removed one of the existing basement windows (mudroom will intersect)
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/032/img/PXL_20220919_220357817.jpg' alt='' />
+<img src='./logs/032/img/PXL_20220919_220438786.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='033'></div>
+
+## Day 33 - 20/9/22
+
+- Finished the mudroom basement walls
+- Started backfilling the backyard
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ During backfilling, the fence was clipped. We're working with pretty narrow space, so a panel of the fence is all but destroyed. It'll be replaced.
+
+</details>
+
+<img src='./logs/033/img/PXL_20220921_212200758.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='034'></div>
+
+## Day 34 - 21/9/22
+
+- Finished backfilling the yard
+- Setup to pour the pillar footing for the stairs from the extension to the backyard
+- Filled the bilco door area, the step in the new basement, and the mudroom basement with gravel/insulation to prep for them to be filled with concrete
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/034/img/PXL_20220921_210407964.jpg' alt='' />
+<img src='./logs/034/img/PXL_20220921_210145286.jpg' alt='' />
+<img src='./logs/034/img/PXL_20220921_210028711.jpg' alt='' />
+<img src='./logs/034/img/PXL_20220921_210127859.jpg' alt='' /><a href='#top'>Back to Top</a>
 
