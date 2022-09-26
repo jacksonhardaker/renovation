@@ -82,6 +82,14 @@
     <li><a href="#032">19/9/22</a></li>
     <li><a href="#033">20/9/22</a></li>
     <li><a href="#034">21/9/22</a></li>
+    <li><a href="#035">23/9/22</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Week 9</summary>
+  <ul>
+    <li><a href="#036">26/9/22</a></li>
   </ul>
 </details>
 
@@ -715,4 +723,44 @@ _Jackson:_ During backfilling, the fence was clipped. We're working with pretty 
 <img src='./logs/034/img/PXL_20220921_210145286.jpg' alt='' />
 <img src='./logs/034/img/PXL_20220921_210028711.jpg' alt='' />
 <img src='./logs/034/img/PXL_20220921_210127859.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='035'></div>
+
+## Day 35 - 23/9/22
+
+- Rained yesterday so no real work was done
+- Framers showed up today and got to work installing a beam in the basement ceiling to solidify the floor
+- Finished framing out the walls of the first floor
+- Added exterior panels
+- Added temporary bracing
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/035/img/PXL_20220923_203945568.jpg' alt='' />
+<img src='./logs/035/img/PXL_20220923_204007091.jpg' alt='' />
+<img src='./logs/035/img/PXL_20220923_204037103.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='036'></div>
+
+## Day 36 - 26/9/22
+
+- Masons arrived early with the concrete truck
+- Filled in the slab for the mudroom basement, basement step, bilco door, and footing for the eventual stairs down to the lawn level
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/036/img/PXL_20220926_132307417.jpg' alt='' />
+<img src='./logs/036/img/PXL_20220926_132257324.jpg' alt='' />
+<img src='./logs/036/img/PXL_20220926_132314343.jpg' alt='' />
+<img src='./logs/036/img/PXL_20220926_132354400.jpg' alt='' /><a href='#top'>Back to Top</a>
 

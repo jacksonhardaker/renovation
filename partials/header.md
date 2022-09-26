@@ -82,6 +82,14 @@
     <li><a href="#032">19/9/22</a></li>
     <li><a href="#033">20/9/22</a></li>
     <li><a href="#034">21/9/22</a></li>
+    <li><a href="#035">23/9/22</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Week 9</summary>
+  <ul>
+    <li><a href="#036">26/9/22</a></li>
   </ul>
 </details>
 
