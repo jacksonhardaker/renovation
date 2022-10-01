@@ -90,6 +90,10 @@
   <summary>Week 9</summary>
   <ul>
     <li><a href="#036">26/9/22</a></li>
+    <li><a href="#037">27/9/22</a></li>
+    <li><a href="#038">28/9/22</a></li>
+    <li><a href="#039">29/9/22</a></li>
+    <li><a href="#040">30/9/22</a></li>
   </ul>
 </details>
 
@@ -763,4 +767,65 @@ _Jackson:_ During backfilling, the fence was clipped. We're working with pretty 
 <img src='./logs/036/img/PXL_20220926_132257324.jpg' alt='' />
 <img src='./logs/036/img/PXL_20220926_132314343.jpg' alt='' />
 <img src='./logs/036/img/PXL_20220926_132354400.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='037'></div>
+
+## Day 37 - 27/9/22
+
+- Wood delivery. Nothing else
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Getting a little frustrated at the days such as today where weather and conditions are perfect, yet nothing gets done. Was assured that the framers would be there tomorrow, now that all the wood has been delivered.
+
+</details>
+
+<img src='./logs/037/img/PXL_20220927_221410795.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='038'></div>
+
+## Day 38 - 28/9/22
+
+- Framers arrived late in the day, and got about 2 hours of work done. Cut out the windows/doors, and framed out the pantry
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ I was in NYC for work today, and left with grand hopes of coming home to a drastically different state of things. That was not really the case.
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='039'></div>
+
+## Day 39 - 29/9/22
+
+- Framers arived later in the day again. Got started on the ceiling framing
+- Paulo put up plastic surrounding the spot in the basement where the wall would be cut tomorrow
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='040'></div>
+
+## Day 40 - 30/9/22
+
+- Cut through the existing basement wall to join the old with the new
+- Framers finished laying the floor of the second floor
+- Started sizing out the wood for the mudroom
+- Marked out the walls for the second floor (bedroom, closet, bathroom, tub room)
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Lots of activity today. Was fairly distracting trying to work with it all going on. At various times during the cutting the entire building seemed to vibrate. Exciting to see everything coming together. We were able to walk out onto the second floor this evening (climbing through our bedroom window). Feeling a little aprehensive about the plans, as now that things are getting closed up the kitchen is beginning to feel much darker. We don't really have any options for adding a window. Hoping that once the wall is opened up to the new greatroom, and the walls are finished the light will permeate better.
+
+</details>
+<a href='#top'>Back to Top</a>
 
