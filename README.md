@@ -827,5 +827,6 @@ _Jackson:_ I was in NYC for work today, and left with grand hopes of coming home
 _Jackson:_ Lots of activity today. Was fairly distracting trying to work with it all going on. At various times during the cutting the entire building seemed to vibrate. Exciting to see everything coming together. We were able to walk out onto the second floor this evening (climbing through our bedroom window). Feeling a little aprehensive about the plans, as now that things are getting closed up the kitchen is beginning to feel much darker. We don't really have any options for adding a window. Hoping that once the wall is opened up to the new greatroom, and the walls are finished the light will permeate better.
 
 </details>
-<a href='#top'>Back to Top</a>
+
+<img src='./logs/040/img/PXL_20221001_224331624.jpg' alt='' /><a href='#top'>Back to Top</a>
 
