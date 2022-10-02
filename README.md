@@ -795,8 +795,7 @@ _Jackson:_ Getting a little frustrated at the days such as today where weather a
 _Jackson:_ I was in NYC for work today, and left with grand hopes of coming home to a drastically different state of things. That was not really the case.
 
 </details>
-
-<img src='./logs/038/img/PXL_20221002_205741464.jpg' alt='' /><a href='#top'>Back to Top</a>
+<a href='#top'>Back to Top</a>
 
 <div id='039'></div>
 
@@ -812,7 +811,8 @@ _Jackson:_ I was in NYC for work today, and left with grand hopes of coming home
 
 </details>
 
-<img src='./logs/039/img/PXL_20221002_205704905.jpg' alt='' /><a href='#top'>Back to Top</a>
+<img src='./logs/039/img/PXL_20221002_205704905.jpg' alt='' />
+<img src='./logs/039/img/PXL_20221002_205741464.jpg' alt='' /><a href='#top'>Back to Top</a>
 
 <div id='040'></div>
 
