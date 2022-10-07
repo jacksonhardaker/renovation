@@ -866,6 +866,7 @@ _Jackson:_ Lots of activity today. Was fairly distracting trying to work with it
 
 <video controls>
   <source src="./logs/042/042.mp4" type="video/mp4">
+</video>
 
 </details>
 
