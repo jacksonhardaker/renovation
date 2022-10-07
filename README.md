@@ -865,7 +865,7 @@ _Jackson:_ Lots of activity today. Was fairly distracting trying to work with it
 <summary>Notes</summary>
 
 <video controls>
-  <source src="/logs/042/img/PXL_20221006_214800373.mp4" type="video/mp4">
+  <source src="/logs/042/042.mp4" type="video/mp4">
 
 </details>
 
