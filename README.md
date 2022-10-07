@@ -864,9 +864,7 @@ _Jackson:_ Lots of activity today. Was fairly distracting trying to work with it
 <details>
 <summary>Notes</summary>
 
-<video controls>
-  <source src="./logs/042/042.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/7596320/194448400-a23d0d18-f25a-4f3e-a342-e8be17b5f063.mp4
 
 </details>
 
