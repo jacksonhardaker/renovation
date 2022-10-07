@@ -835,3 +835,40 @@ _Jackson:_ Lots of activity today. Was fairly distracting trying to work with it
 <img src='./logs/040/img/PXL_20221001_224331624.jpg' alt='' />
 <img src='./logs/040/img/PXL_20221002_205635368.jpg' alt='' /><a href='#top'>Back to Top</a>
 
+<div id='041'></div>
+
+## Day 41 - 05/10/22
+
+- No activity Monday and Tuesday, except for the storage pod arriving on Tuesday
+- Windows arrived today (Wednesday), mostly stashed around back in the extension, with a little overflow put in the storage unit
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/041/img/signal-2022-10-05-101526_002.jpeg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='042'></div>
+
+## Day 42 - 06/10/22
+
+- Framers arrived early and got to work. Didn't stop, except for lunch, until a little after 5
+- Framed out the walls of the second floor
+- Started adding the ceiling beams
+- Pulled down the supports on the 1st floor
+- Installed the outer frame of the bilco door
+
+<details>
+<summary>Notes</summary>
+
+<video controls>
+  <source src="/logs/042/img/PXL_20221006_214800373.mp4" type="video/mp4">
+
+</details>
+
+<img src='./logs/042/img/PXL_20221006_214045687.jpg' alt='' />
+<img src='./logs/042/img/PXL_20221006_214135729.jpg' alt='' /><a href='#top'>Back to Top</a>
+
