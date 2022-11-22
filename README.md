@@ -996,6 +996,8 @@ _Jackson:_ Fucking finally! Finalised the change of plans for the clearstory. It
 - Weather proofing of the roof, mudroom and roof terrace
 - Door installed between loft and roof terrace
 - More deliveries
+- Interior demo for the new lof stairs
+- Interior demo for the dormer
 
 <details>
 <summary>Notes</summary>
