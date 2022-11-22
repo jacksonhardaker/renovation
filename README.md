@@ -97,6 +97,26 @@
   </ul>
 </details>
 
+<details>
+  <summary>Week 10</summary>
+  <ul>
+    <li><a href="#041">05/10/22</a></li>
+    <li><a href="#042">06/10/22</a></li>
+  </ul>
+</details>
+
+<p><a href="#043">Week 11</a></p>
+
+<p><a href="#044">Week 12</a></p>
+
+<p><a href="#045">Week 13</a></p>
+
+<p><a href="#046">Week 14</a></p>
+
+<p><a href="#047">Week 15</a></p>
+
+<p><a href="#048">Week 16</a></p>
+
 <hr />
 
 ## Before
@@ -870,4 +890,136 @@ https://user-images.githubusercontent.com/7596320/194448400-a23d0d18-f25a-4f3e-a
 
 <img src='./logs/042/img/PXL_20221006_214045687.jpg' alt='' />
 <img src='./logs/042/img/PXL_20221006_214135729.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='043'></div>
+
+## 10/10/22 - 14/10/22
+
+- Moved to Newburgh so that destructive and uncomfortable work could begin
+- The next few posts were posted after the fact due to not having daily updates
+- Started seeing how the roof terrace would start to look
+- Clearstory starts to take shape, and we start to reevaluate how much space it will eat of the terrace
+- Mudroom floor goes in
+- Windows get removed
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Staying in Newburgh SUCKED. First week we lost water due to a water main bursting, had the downstairs neighbor banging on the ceiling at 2am because he thought that Boden was running around in the apartment waking him up (not true, Boden and Natalie were visiting her parents), had ongoing issues with internet connectivity. Oh, and Bodie got sick with croup.
+
+</details>
+
+<img src='./logs/043/img/PXL_20221015_152952442.jpg' alt='' />
+<img src='./logs/043/img/PXL_20221008_123424713.jpg' alt='' />
+<img src='./logs/043/img/PXL_20221015_153441207.jpg' alt='' />
+<img src='./logs/043/img/PXL_20221015_153412339.jpg' alt='' />
+<img src='./logs/043/img/PXL_20221015_153627823.jpg' alt='' />
+<img src='./logs/043/img/PXL_20221008_123410147.jpg' alt='' />
+<img src='./logs/043/img/PXL_20221008_123421307.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='044'></div>
+
+
+
+## 17/10/22 - 21/10/22
+
+- Frustratingly slow progress
+- Doorway to roof terrace cut
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/044/img/PXL_20221023_204550402.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='045'></div>
+
+## 24/10/22 - 28/10/22
+
+- Barely anything happened this week, no updates
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ We were getting super frustrated at this point. The end of this week marked the end of the 3rd week which we were meant to be out of the house, with only some windows being replaced (incompletely I might add), and a few additional holes in the house. We extended our stay another 3 weeks.
+
+</details>
+<a href='#top'>Back to Top</a>
+
+<div id='046'></div>
+
+## 31/10/22 - 4/11/22
+
+- Another poor week progress-wise
+
+<details>
+<summary>Notes</summary>
+
+
+
+</details>
+
+<img src='./logs/046/img/PXL_20221105_165846899.jpg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='047'></div>
+
+## 7/11/22 - 11/11/22
+
+- Things start moving again
+- Change of plans with the clearstory, reducing the size and replacing the roof with a skylight (extra expense)
+- Work for the dormer for the loft begins
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Fucking finally! Finalised the change of plans for the clearstory. It was going to be too imposing in the roof terrace space, not to mention it was positioned almost perfectly to block off the last of our neighbors view of the mountain. We felt bad about that. Ultimately replacing it with a skylight is a much better choice for both us _and_ our neighbors. I just wish we'd though of it before work began as it's definitely costing us more to change plans now.
+
+</details>
+
+<img src='./logs/047/img/signal-2022-11-22-073849_002.jpeg' alt='' />
+<img src='./logs/047/img/signal-2022-11-22-073909_002.jpeg' alt='' />
+<img src='./logs/047/img/PXL_20221108_163805003.jpg' alt='' />
+<img src='./logs/047/img/signal-2022-11-22-073909_004.jpeg' alt='' />
+<img src='./logs/047/img/signal-2022-11-22-073928_002.jpeg' alt='' />
+<img src='./logs/047/img/signal-2022-11-22-073909_006.jpeg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='048'></div>
+
+## 14/11/22 - 18/11/22
+
+- Dormer coming along well
+- Windows installed in the dormer
+- Windows installed in the mudroom
+- Weather proofing of the roof, mudroom and roof terrace
+- Door installed between loft and roof terrace
+- More deliveries
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ Bodie got quite sick over the weekend. He was low energy and cranky on Sunday, then on Monday he was a mess. I ended up sleeping on the couch next to his room for the next few nights as he was in frequent need of water and comforting because he couldn't really breath out of his nose well. Turns out it was RSV. Poor bugger getting croup and RSV within a couple of weeks of each other.
+
+This marks the final week of our 6 week stay in Newburgh. The plan was to spend thanksgiving week in Pennsylvania with Natalie's family, however because of Bodie's RSV, the fact that Natalie and I were starting to come down with it, and that there would be several 80+ attendees at thanksgiving, that plan changed two days before we had to be out of Newburgh.
+
+Faced with either extending another week in Newburgh, which I was strongly against due to being 100% _over_ being there (nor did I want to spend my week off in that space), we scrambled for find an alternative. The stars aligned and we found a place to stay in Montreal, so I'm writing these last few updates from there!
+
+In theory, when we get back from Montreal the extension + house will be weather tight again!
+
+</details>
+
+<img src='./logs/048/img/signal-2022-11-22-073801_002.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073801_003.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073826_011.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073826_007.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073801_004.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073801_005.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073826_006.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073719_003.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073826_008.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073826_012.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073719_002.jpeg' alt='' />
+<img src='./logs/048/img/signal-2022-11-22-073826_003.jpeg' alt='' /><a href='#top'>Back to Top</a>
 
