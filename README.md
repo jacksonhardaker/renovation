@@ -117,6 +117,8 @@
 
 <p><a href="#048">Week 16</a></p>
 
+<p><a href="#049">Week 17-18</a></p>
+
 <hr />
 
 ## Before
@@ -1024,4 +1026,32 @@ In theory, when we get back from Montreal the extension + house will be weather 
 <img src='./logs/048/img/signal-2022-11-22-073826_012.jpeg' alt='' />
 <img src='./logs/048/img/signal-2022-11-22-073719_002.jpeg' alt='' />
 <img src='./logs/048/img/signal-2022-11-22-073826_003.jpeg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='049'></div>
+
+## 19/11/22 - 02/12/22
+
+- Installed the back doors
+- HVAC installation began
+- Waterproofing of the roof
+- Backfilling the old chimney by the new stairwell
+- Demo in the kitchen
+- Framing new interior walls
+- Finished installing windows
+- Started on the siding
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ We were away for a week in Montreal. When we got back we discovered that I had COVID. We were feeling pretty low. The first time we looked in on the house we were feeling pretty down about the progress that had been made while we were gone, and our hopes of being able to move back in sooner rather than later seemed like a slim chance. We came back a few days later, and felt much better about our chances. We'll see, but hopefully the old part of the house will be livable within a few weeks, and we can be back in my mid December.
+
+</details>
+<img src='./logs/049/img/signal-2022-12-01-125500_004.jpeg' alt='' />
+<img src='./logs/049/img/signal-2022-12-01-125500_008.jpeg' alt='' />
+<img src='./logs/049/img/signal-2022-12-01-125500_009.jpeg' alt='' />
+<img src='./logs/049/img/signal-2022-12-01-125500_005.jpeg' alt='' />
+<img src='./logs/049/img/signal-2022-12-01-125500_002.jpeg' alt='' />
+<img src='./logs/049/img/signal-2022-12-01-125500_003.jpeg' alt='' />
+<img src='./logs/049/img/signal-2022-12-01-125500_006.jpeg' alt='' />
+<img src='./logs/049/img/signal-2022-12-01-125500_007.jpeg' alt='' /><a href='#top'>Back to Top</a>
 
