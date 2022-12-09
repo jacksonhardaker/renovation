@@ -119,6 +119,8 @@
 
 <p><a href="#049">Week 17-18</a></p>
 
+<p><a href="#050">Week 17-18</a></p>
+
 <hr />
 
 ## Before
@@ -1054,4 +1056,34 @@ _Jackson:_ We were away for a week in Montreal. When we got back we discovered t
 <img src='./logs/049/img/signal-2022-12-01-125500_003.jpeg' alt='' />
 <img src='./logs/049/img/signal-2022-12-01-125500_006.jpeg' alt='' />
 <img src='./logs/049/img/signal-2022-12-01-125500_007.jpeg' alt='' /><a href='#top'>Back to Top</a>
+
+<div id='050'></div>
+
+## 03/12/22 - 08/12/22
+
+- Continued with interior framing (closets, hallways)
+- HVAC progress
+- Plumbing work started
+- Electrical work started
+- Stairs up to loft underway
+- Roof trim going on
+- Insulation installed around windows, and interior framing underway
+- Brick work on foundation below siding started
+- Entryway to mud room started, and exterior door purchased
+
+<details>
+<summary>Notes</summary>
+
+_Jackson:_ This week felt good. Feeling like progress is being made at a good rate now. We were over on Wednesday and there were 5 different sets of contractors there working on different aspects of the house. Gives us hope that maybe the "ready in the next few weeks" for us to move back into the old part of the house might actually be reality.
+
+</details>
+<img src='./logs/050/img/signal-2022-12-07-135435_006.jpeg' alt='' />
+<img src='./logs/050/img/signal-2022-12-07-135435_007.jpeg' alt='' />
+<img src='./logs/050/img/signal-2022-12-03-170227_006.jpeg' alt='' />
+<img src='./logs/050/img/signal-2022-12-03-170227_007.jpeg' alt='' />
+<img src='./logs/050/img/signal-2022-12-03-170227_004.jpeg' alt='' />
+<img src='./logs/050/img/signal-2022-12-07-135435_002.jpeg' alt='' />
+<img src='./logs/050/img/signal-2022-12-07-135435_004.jpeg' alt='' />
+<img src='./logs/050/img/signal-2022-12-07-135435_008.jpeg' alt='' />
+<img src='./logs/050/img/signal-2022-12-03-170227_003.jpeg' alt='' /><a href='#top'>Back to Top</a>
 
